@@ -1,0 +1,21 @@
+{
+  "name": "zx-coder/Breathalyzer",
+  "license": "proprietary",
+  "description": "Breathalyzer",
+  "autoload": {
+    "psr-4": {
+      "ZxCoder\\Breathalyzer\\": "./src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "zx-coder",
+      "email": "zx-coder@mail.ru"
+    }
+  ],
+  "require": {
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6.0"
+  }
+}
